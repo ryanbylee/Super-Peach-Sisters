@@ -1,0 +1,72 @@
+﻿  Actor.cpp
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(62,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(62,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(65,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(65,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(68,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(68,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(177,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(179,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(201,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(201,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(227,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(228,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(245,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(246,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(263,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(263,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(281,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(282,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(285,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(286,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(222,7): warning C4101: 'targetY': unreferenced local variable
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(392,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(392,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(402,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(403,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(403,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(416,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(417,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(417,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(518,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(518,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(527,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(528,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(528,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(545,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(546,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(546,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(600,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(600,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(645,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(645,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(706,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(707,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(707,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(708,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(708,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(717,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(717,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(731,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(732,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(732,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(733,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(733,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(742,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(742,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(789,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(794,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(794,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(816,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(816,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(826,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\Actor.cpp(826,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  GameController.cpp
+  GameWorld.cpp
+  main.cpp
+  StudentWorld.cpp
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\StudentWorld.cpp(52,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\StudentWorld.cpp(149,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bylee\Documents\CS32\super_peach_sisters\SuperPeachSisters\StudentWorld.cpp(179,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SuperPeachSisters.vcxproj -> C:\Users\bylee\Documents\CS32\super_peach_sisters\Debug\SuperPeachSisters.exe
